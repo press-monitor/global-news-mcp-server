@@ -1,4 +1,4 @@
-# News MCP Server - AI-Ready Global News API & Agent Integration
+# Global News MCP Server - 200 Countries, 100+ Languages. Millions of News Items Everyday!
 
 [![PyPI version](https://badge.fury.io/py/news-mcp-server.svg)](https://badge.fury.io/py/news-mcp-server)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
