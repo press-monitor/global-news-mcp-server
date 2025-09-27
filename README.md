@@ -425,8 +425,8 @@ REQUESTS_PER_MINUTE=60
 - **[API Documentation](https://www.pressmonitor.com/en/docs/online-news-api)** - Comprehensive API reference
 - **[Open API Schema](https://api.pressmonitor.com/schemas/newsv1)** - API schema specification
 - **[Press Monitor Website](https://www.pressmonitor.com/)** - Official vendor website
-- **[GitHub Repository](https://github.com/yourorg/news-mcp-server)** - Source code and issues
-- **[Examples Collection](https://github.com/yourorg/news-mcp-examples)** - Integration examples
+- **[GitHub Repository](https://github.com/press-monitor/global-news-mcp-server)** - Source code and issues
+- **[Examples Collection](https://github.com/press-monitor/global-news-mcp-server/tree/main/examples)** - Integration examples
 
 ### Community Support
 - **GitHub Issues** - Bug reports and feature requests
